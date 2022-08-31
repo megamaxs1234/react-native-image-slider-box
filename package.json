@@ -37,6 +37,6 @@
     "metro-react-native-babel-preset": "latest"
   },
   "dependencies": {
-    "react-native-snap-carousel": "latest"
+    "react-native-snap-carousel": "apurba-bware/react-native-snap-carousel#5a7f809e921262e4e2f646e8cfc4da85f7bd663d"
   }
 }
